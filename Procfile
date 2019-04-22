@@ -1,1 +1,1 @@
-worker: python kreme.py
+worker: python krsipy.py
