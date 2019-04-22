@@ -88,4 +88,4 @@ async def krispy(ctx,catchall):
             await client.send_message(author, embed=embed)
         else:
             await client.say('Oh no! An error occurred.')
-client.run('Your Bot Token Here')
+client.run('NTY2NDQ0MTA4MTgxMTQzNTYy.XLdOfQ.v_7jjeR-GaIort-xg7Gu5NMQUzc')
