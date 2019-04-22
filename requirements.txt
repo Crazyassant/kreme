@@ -1,0 +1,4 @@
+discord.py == 0.16.12
+requests == 2.18.4
+bs4 == 4.4.0
+names == 0.3.0
